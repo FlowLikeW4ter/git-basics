@@ -6,3 +6,4 @@
 -Branch
 -Merge
 -Push
+-gaming
